@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 -->
 
 Hello. I'm Mambo.  
-The **Mambo** is based on Pokemon's Snorlax character.
+The **Mambo** is based on Pokemon's Snorlax character.  
+Please check my skills on the [about](https://kdevkr.github.io/about/) page.
 
 ![Mambo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdevkr&theme=vue-dark&show_icons=true)
 
